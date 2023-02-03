@@ -1,4 +1,4 @@
-module example4_supply0_supply1( a,b,c,f  );
+module example5_supply0_supply1( a,b,c,f  );
     input a,b,c;
     output f;
     supply0 gnd;
